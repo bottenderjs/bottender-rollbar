@@ -31,8 +31,10 @@
   },
   "keywords": [
     "bottender",
-    "conversational-form",
-    "form"
+    "bottender-middleware",
+    "error-tracking",
+    "middleware",
+    "rollbar"
   ],
   "lint-staged": {
     "*.js": [
